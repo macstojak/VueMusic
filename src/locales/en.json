@@ -1,0 +1,37 @@
+{
+    "home": {
+        "listen": "Listen to Great Music!",
+        "description": "We are thrilled to introduce our latest music player – a revolutionary device designed to transform your listening experience.",
+        "songs": "Songs"
+    },
+    "header": {
+        "about": "About us",
+        "loginRegister": "Login / Register",
+        "manage": "Manage",
+        "logout": "Logout"
+    },
+    "auth": {
+        "yourAccount": "Your account",
+        "login": "Login",
+        "register": "Register"
+    },
+    "song":{
+        "comment_count": "No comments | 1 comment | {count} comments"
+    },
+    "register": {
+        "accept": "I accept VueMusic's {0}",
+        "tos": "Terms of Service",
+        "name": "Name",
+        "email": "Email",
+        "age": "Age",
+        "password": "Password",
+        "confirmPassword": "Confirm password",
+        "country": "Country",
+        "submit": "Submit"
+    },
+    "login": {
+        "email": "Email",
+        "password": "Password",
+        "submit": "Submit"
+    }
+}

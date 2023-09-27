@@ -1,0 +1,38 @@
+{
+    "home": {
+        "listen": "Słuchaj wspaniałej Muzyki!",
+        "description": "Z ogromną radością przedstawiamy nasz najnowszy odtwarzacz. Łatwo wgrywaj i organizuj swoją muzykę, twórz listy odtwarzania na każdy nastrój i ciesz się ulubionymi utworami w oszałamiającej klarowności.",
+        "songs": "Piosenki"
+    },
+    "header": {
+        "about": "O nas",
+        "loginRegister": "Zaloguj / Zarejestruj się",
+        "manage": "Konto",
+        "logout": "Wyloguj"
+        
+    },
+    "auth": {
+        "yourAccount": "Twoje konto",
+        "login": "Zaloguj",
+        "register": "Zarejestruj się"
+    },
+    "song":{
+        "comment_count": "Brak komentarzy | 1 komentarz | {count} komentarze"
+    },
+    "register": {
+        "accept": "Zgadzam się z VueMusic's {0}",
+        "tos": "Warunkami Użytkowania",
+        "name": "Nazwa użytkownika",
+        "email": "Email",
+        "age": "Wiek",
+        "password": "Hasło",
+        "confirmPassword": "Potwierdź hasło",
+        "country": "Kraj",
+        "submit": "Zatwierdź"
+    },
+    "login": {
+        "email": "Email",
+        "password": "Hasło",
+        "submit": "Zatwierdź"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "home": {
+        "listen": "Hören Sie großartige Musik!",
+        "description": "Wir freuen uns sehr, Ihnen unseren neuesten Musikplayer vorstellen zu können",
+        "songs": "Lieder"   
+    },
+    "header": {
+        "about": "Über uns",
+        "loginRegister": "Anmeldung / Registrieren",
+        "manage": "Konto",
+        "logout": "Ausloggen"
+    },
+    "auth": {
+        "yourAccount": "Ihr Konto",
+        "login": "Anmeldung",
+        "register": "Registrieren"
+    },
+    "song":{
+        "comment_count": "{count} Kommentare"
+    },
+    "register": {
+        "accept": "Ich akzeptiere die {0}",
+        "tos": "Nutzungsbedingungen",
+        "name": "Name",
+        "email": "Email",
+        "age": "Alter",
+        "password": "Passwort",
+        "confirmPassword": "Bestätige das Passwort",
+        "country": "Land",
+        "submit": "Bestätige"
+    },
+    "login": {
+        "email": "Email",
+        "password": "Passwort",
+        "submit": "Bestätige"
+    }
+}
