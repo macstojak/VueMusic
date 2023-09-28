@@ -1,5 +1,5 @@
 <template>
-    <div>
-        About
+    <div class="about">
+        <BaseButton />
     </div>
 </template>
