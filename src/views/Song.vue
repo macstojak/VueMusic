@@ -6,7 +6,7 @@
         style="background-image: url(/assets/img/song-header.png)"></div>
       <div class="container mx-auto flex items-center">
         <!-- Play/Pause Button -->
-        <button @click.prevent="currently_played ? newSong(song) : toggleAudio()" type="button"
+        <button id="play-btn" @click.prevent="currently_played ? newSong(song) : toggleAudio()" type="button"
           class="z-50 h-24 w-24 text-3xl bg-white text-black rounded-full focus:outline-none">
           <i class="fas" :class="{ 'fa-play': !playing, 'fa-pause': playing }"></i>
         </button>

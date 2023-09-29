@@ -6,6 +6,7 @@ import vue from '@vitejs/plugin-vue';
 
 // https://vitejs.dev/config/
 export default defineConfig({
+
   plugins: [
     vue(),
     VitePWA({
@@ -33,6 +34,10 @@ export default defineConfig({
     }),
     // visualizer({open: true}),
   ],
+  test: {
+    globals: true,
+    environment: "jsdom",
+  },
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
